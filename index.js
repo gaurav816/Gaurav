@@ -1,1 +1,2 @@
-console.log("hello");
+let constant = "variable";
+console.log(consntant);
